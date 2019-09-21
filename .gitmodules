@@ -1,0 +1,27 @@
+[submodule "namida-neet/lesson02-nri"]
+	path = namida-neet/lesson02-nri
+	url = https://github.com/namida-neet/lesson02-nri.git
+[submodule "namida-neet/lesson03-nkou"]
+	path = namida-neet/lesson03-nkou
+	url = https://github.com/namida-neet/lesson03-nkou.git
+[submodule "Seiji-04/lesson02-nri"]
+	path = Seiji-04/lesson02-nri
+	url = https://github.com/Seiji-04/project_nri.git
+[submodule "RyomaAD/lesson02-nri"]
+	path = RyomaAD/lesson02-nri
+	url = https://github.com/RyomaAD/NRI.git
+[submodule "ameame184/lesson02-nri"]
+	path = ameame184/lesson02-nri
+	url = https://github.com/ameame184/lesson02-nri.git
+[submodule "ameame184/lesson03-nkou"]
+	path = ameame184/lesson03-nkou
+	url = https://github.com/ameame184/lesson02-nri.git
+[submodule "y0shihiro/lesson02-nri"]
+	path = y0shihiro/lesson02-nri
+	url = https://github.com/y0shihiro/lesson-02-nri.git
+[submodule "y0shihiro/lesson03-nkou"]
+	path = y0shihiro/lesson03-nkou
+	url = https://github.com/y0shihiro/lesson-03-nkou.git
+[submodule "ymtdik/lesson02-nri"]
+	path = ymtdik/lesson02-nri
+	url = https://github.com/ymtdik/NRI-.git
