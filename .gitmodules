@@ -28,3 +28,6 @@
 [submodule "ymtdik/lesson03-nkou"]
 	path = ymtdik/lesson03-nkou
 	url = https://github.com/ymtdik/lesson3_N-kou.git
+[submodule "keisukenemoto/lesson02-nri"]
+	path = keisukenemoto/lesson02-nri
+	url = https://github.com/keisukenemoto/NRI.git
