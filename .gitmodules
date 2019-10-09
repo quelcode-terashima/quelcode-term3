@@ -31,3 +31,9 @@
 [submodule "keisukenemoto/lesson02-nri"]
 	path = keisukenemoto/lesson02-nri
 	url = https://github.com/keisukenemoto/NRI.git
+[submodule "y0shihiro/lesson04-php"]
+	path = y0shihiro/lesson04-php
+	url = https://github.com/y0shihiro/lesson-04-php.git
+[submodule "abeaaaaa/lesson02-nri"]
+	path = abeaaaaa/lesson02-nri
+	url = https://github.com/abeaaaaa/NRI-abe.git
