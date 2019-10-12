@@ -37,3 +37,6 @@
 [submodule "abeaaaaa/lesson02-nri"]
 	path = abeaaaaa/lesson02-nri
 	url = https://github.com/abeaaaaa/NRI-abe.git
+[submodule "namida-neet/lesson04-php"]
+	path = namida-neet/lesson04-php
+	url = https://github.com/namida-neet/lesson04.git
